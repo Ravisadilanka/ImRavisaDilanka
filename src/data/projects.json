@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Smart Attendance System",
+    "description": "The Smart Attendance System, a university project, leverages advanced face recognition technology to automate the process of marking student attendance in classrooms.",
+    "skills": ["React", "Python", "Firebase"],
+    "demo": "",
+    "source": "https://github.com/Ravisadilanka/Smart-Attendance",
+    "video": "assets/projects/final.mp4"
   },
   {
     "title": "Project B",
