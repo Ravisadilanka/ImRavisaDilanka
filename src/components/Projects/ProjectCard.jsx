@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./ProjectCard.module.css";
-import { getImageUrl } from "../../utils";
+import { getImageUrl, getVideoUrl } from "../../utils";
 
 export const ProjectCard = ({
   project: { title, imageSrc, description, skills, demo, source, video },
@@ -14,7 +14,7 @@ export const ProjectCard = ({
       />)}
       {video && (
         <video width="297" height="199" controls className={styles.video}>
-          <source src={video} type="video/mp4" />
+          <source src={getVideoUrl(video)} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       )}
