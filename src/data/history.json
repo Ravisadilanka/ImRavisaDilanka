@@ -4,7 +4,7 @@
     "organisation": "Dartello",
     "startDate": "May, 2023",
     "endDate": "Present",
-    "experiences": ["Developed site using Wordpress"],
+    "experiences": ["Developed site using Wordpress", "Created Pinterest Pin Automation system using Python and Zapier"],
     "imageSrc": "history/dartello.jpg"
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
     "title": "Smart Attendance System",
-    "description": "The Smart Attendance System, a university project, leverages advanced face recognition technology to automate the process of marking student attendance in classrooms.",
+    "description": "The Smart Attendance System, a university project, it is marking attendance using face recognition.",
     "skills": ["React", "Python", "Firebase"],
     "demo": "",
     "source": "https://github.com/Ravisadilanka/Smart-Attendance",
     "video": "projects/final.mp4"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "YouTube Clone",
+    "imageSrc": "projects/youtube-clone.png",
+    "description": "This is a project made to learn the Typescript.",
+    "skills": ["TypeScript", "CSS", "HTML"],
+    "demo": "https://youtube-clone-two-beige.vercel.app/",
+    "source": "https://github.com/Ravisadilanka/Youtube-Clone"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "The Stylo",
+    "imageSrc": "projects/the-stylo.png",
+    "description": "This is an e-commerce site. It was developed as web project for University",
+    "skills": ["Node", "Express", "React", "MongoDB"],
+    "demo": "",
+    "source": "https://github.com/Ravisadilanka/Web-Project"
   }
 ]

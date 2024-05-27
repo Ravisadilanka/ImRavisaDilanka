@@ -8,10 +8,12 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  max-height: 500px;
 }
 
 .image {
   margin-bottom: 26px;
+  height: 199px;
 }
 
 .video {
@@ -19,13 +21,13 @@
 }
 
 .title {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 700;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
 }
 
@@ -40,7 +42,7 @@
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
