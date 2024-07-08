@@ -22,5 +22,13 @@
     "skills": ["Node", "Express", "React", "MongoDB"],
     "demo": "",
     "source": "https://github.com/Ravisadilanka/Web-Project"
+  },
+  {
+    "title": "WhisperNet",
+    "description": "This is a utting-edge real-time chat application",
+    "skills": ["Node", "Express", "React", "MongoDB", "Socket.io"],
+    "demo": "",
+    "source": "https://github.com/Ravisadilanka/WhisperNet",
+    "video": "projects/WhisperNet.mp4"
   }
 ]
